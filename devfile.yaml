@@ -1,6 +1,11 @@
 schemaVersion: 2.2.2
 metadata:
   name: python-hello-world
+projects:
+  - name: python-hello-world
+    git:
+      remotes:
+        origin: 'https://github.com/testsfactory/python-hello-world.git'
 components:
   - name: python
     container:
