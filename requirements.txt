@@ -2,7 +2,7 @@ argcomplete==2.0.0
 attrs==22.1.0
 distlib==0.3.6
 exceptiongroup==1.0.1
-filelock==3.8.2
+filelock==4.2.1
 flake8==6.0.0
 iniconfig==1.1.1
 mccabe==0.7.0
